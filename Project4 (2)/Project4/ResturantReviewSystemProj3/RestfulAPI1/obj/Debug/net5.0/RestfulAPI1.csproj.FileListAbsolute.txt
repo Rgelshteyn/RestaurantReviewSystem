@@ -1,0 +1,258 @@
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.json
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.exe
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.deps.json
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.json
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.dev.json
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.pdb
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.AssemblyReference.cache
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfoInputs.cache
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfo.cs
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CoreCompileInputs.cache
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\scopedcss\bundle\RestfulAPI1.styles.css
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Manifest.cache
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Pack.cache
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.RestfulAPI1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.build.RestfulAPI1.props
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RestfulAPI1.props
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RestfulAPI1.props
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CopyComplete
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\refint\RestfulAPI1.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.pdb
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.genruntimeconfig.cache
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\ref\RestfulAPI1.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.dll
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.pdb
+C:\Users\elmra\Downloads\ResturantReviewSystemProj3 (2)\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.pdb
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.json
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.exe
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.deps.json
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.json
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.dev.json
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.pdb
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.pdb
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.pdb
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfo.cs
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\scopedcss\bundle\RestfulAPI1.styles.css
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Manifest.cache
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Pack.cache
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.RestfulAPI1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.build.RestfulAPI1.props
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RestfulAPI1.props
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RestfulAPI1.props
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CopyComplete
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\refint\RestfulAPI1.dll
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.pdb
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.genruntimeconfig.cache
+C:\Users\rapha\Desktop\CIS-3342\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\ref\RestfulAPI1.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.json
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.exe
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.deps.json
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.json
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.dev.json
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.pdb
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.pdb
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.pdb
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\scopedcss\bundle\RestfulAPI1.styles.css
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Manifest.cache
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Pack.cache
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.RestfulAPI1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.build.RestfulAPI1.props
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RestfulAPI1.props
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RestfulAPI1.props
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CopyComplete
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\refint\RestfulAPI1.dll
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.pdb
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\ref\RestfulAPI1.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.json
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.exe
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.deps.json
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.json
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.dev.json
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.pdb
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.pdb
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.pdb
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.AssemblyReference.cache
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfoInputs.cache
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfo.cs
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CoreCompileInputs.cache
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\scopedcss\bundle\RestfulAPI1.styles.css
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Manifest.cache
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Pack.cache
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.RestfulAPI1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.build.RestfulAPI1.props
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RestfulAPI1.props
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RestfulAPI1.props
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CopyComplete
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\refint\RestfulAPI1.dll
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.pdb
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.genruntimeconfig.cache
+C:\Users\elmra\Downloads\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\ref\RestfulAPI1.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.json
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.exe
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.deps.json
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.json
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.dev.json
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.pdb
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.pdb
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.pdb
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\scopedcss\bundle\RestfulAPI1.styles.css
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Manifest.cache
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Pack.cache
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.RestfulAPI1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.build.RestfulAPI1.props
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RestfulAPI1.props
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RestfulAPI1.props
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CopyComplete
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\refint\RestfulAPI1.dll
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.pdb
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\ref\RestfulAPI1.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.Development.json
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\appsettings.json
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.exe
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.deps.json
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.json
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.runtimeconfig.dev.json
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\RestfulAPI1.pdb
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\ResturantReviewSystemClassLibrary.pdb
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\bin\Debug\net5.0\Utilities.pdb
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.AssemblyReference.cache
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfoInputs.cache
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.AssemblyInfo.cs
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CoreCompileInputs.cache
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cs
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\scopedcss\bundle\RestfulAPI1.styles.css
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Manifest.cache
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\RestfulAPI1.StaticWebAssets.Pack.cache
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.RestfulAPI1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.build.RestfulAPI1.props
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RestfulAPI1.props
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RestfulAPI1.props
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.RazorTargetAssemblyInfo.cache
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.csproj.CopyComplete
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\refint\RestfulAPI1.dll
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.pdb
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\RestfulAPI1.genruntimeconfig.cache
+C:\Temple University\3342-Server-Side\Project4 (2) (1)\Project4 (2)\Project4\ResturantReviewSystemProj3\RestfulAPI1\obj\Debug\net5.0\ref\RestfulAPI1.dll
