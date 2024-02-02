@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\RestfulAPI1\\RestfulAPI1.csproj": {}
+    "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\RestfulAPI1\\RestfulAPI1.csproj": {}
   },
   "projects": {
-    "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\RestfulAPI1\\RestfulAPI1.csproj": {
+    "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\RestfulAPI1\\RestfulAPI1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\RestfulAPI1\\RestfulAPI1.csproj",
+        "projectUniqueName": "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\RestfulAPI1\\RestfulAPI1.csproj",
         "projectName": "RestfulAPI1",
-        "projectPath": "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\RestfulAPI1\\RestfulAPI1.csproj",
+        "projectPath": "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\RestfulAPI1\\RestfulAPI1.csproj",
         "packagesPath": "C:\\Users\\Family\\.nuget\\packages\\",
-        "outputPath": "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\RestfulAPI1\\obj\\",
+        "outputPath": "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\RestfulAPI1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Family\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\ResturantReviewSystemClassLibrary\\RestaurantReviewSystemClassLibrary.csproj": {
-                "projectPath": "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\ResturantReviewSystemClassLibrary\\RestaurantReviewSystemClassLibrary.csproj"
+              "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\ResturantReviewSystemClassLibrary\\RestaurantReviewSystemClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\ResturantReviewSystemClassLibrary\\RestaurantReviewSystemClassLibrary.csproj"
               },
-              "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj"
+              "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -62,8 +62,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,20 +74,20 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\ResturantReviewSystemClassLibrary\\RestaurantReviewSystemClassLibrary.csproj": {
+    "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\ResturantReviewSystemClassLibrary\\RestaurantReviewSystemClassLibrary.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\ResturantReviewSystemClassLibrary\\RestaurantReviewSystemClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\ResturantReviewSystemClassLibrary\\RestaurantReviewSystemClassLibrary.csproj",
         "projectName": "RestaurantReviewSystemClassLibrary",
-        "projectPath": "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\ResturantReviewSystemClassLibrary\\RestaurantReviewSystemClassLibrary.csproj",
+        "projectPath": "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\ResturantReviewSystemClassLibrary\\RestaurantReviewSystemClassLibrary.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj"
+              "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -98,11 +97,11 @@
         "net472": {}
       }
     },
-    "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj": {
+    "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Temple University\\3342-Server-Side\\Project4 (2) (1)\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj",
+        "projectPath": "C:\\Users\\Family\\Desktop\\RestaurantReviewSystem\\Project4 (2)\\Project4\\ResturantReviewSystemProj3\\Utilities\\Utilities.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
